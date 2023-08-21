@@ -1,0 +1,45 @@
+.box{
+    height: 300px;
+    border: 2px solid black;
+}
+
+.purple{
+   
+    height: 100px;
+    background-color: purple;
+}
+
+.green{
+   
+    height: 100px;
+    background-color: green;
+}
+
+.container{
+    border: 3px solid red;
+}
+
+.row{
+    border: 3px solid rgb(189, 235, 25);
+}
+
+.orange{
+   
+    height: 100px;
+    background-color: orange;
+}
+
+.yellow{
+   
+    height: 100px;
+    background-color: yellow;
+}
+
+.blue{
+    height: 100px;
+    background-color: blue;
+}
+
+img{
+    height:100px;
+}
